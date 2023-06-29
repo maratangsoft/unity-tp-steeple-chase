@@ -1,4 +1,4 @@
-# unity-tp-steeple-chase
+# Unity Toy Project: Steeple Chase
 ## Overview
 [Unity Learn - Junior Programmer Unit 3](https://learn.unity.com/project/3danweon-eumhyang-mic-hyogwa) 과정에서 제작한 프로젝트입니다.
 
